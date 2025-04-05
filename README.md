@@ -1,4 +1,4 @@
-# Notepad Project
+# Notepad Application Project
 
 This is a Notepad application built using C#. It allows users to create, edit, and save text files. The application provides basic text editing functionalities, such as opening and saving files, cutting, copying, pasting, and undoing actions.
 
